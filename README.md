@@ -5,7 +5,6 @@ The authors first describe the simulation model, which includes a network model 
 
 The authors evaluate the framework using data from the New York City bike-sharing system and show that it is able to identify decision policies that significantly improve system performance, such as reducing customer wait times and increasing bike availability at popular stations. They also show that the framework is able to handle large-scale problems and can be used to evaluate the impact of different system configurations and policies.
 
-Overall, the paper provides a valuable contribution to the field of transportation planning by demonstrating the effectiveness of simulation optimization for large-scale bike-sharing systems.
 
 
 
