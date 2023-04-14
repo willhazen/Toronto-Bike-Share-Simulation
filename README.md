@@ -7,6 +7,7 @@ The authors evaluate the framework using data from the New York City bike-sharin
 
 
 
-
+# Data Acquired
+https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
 
 
