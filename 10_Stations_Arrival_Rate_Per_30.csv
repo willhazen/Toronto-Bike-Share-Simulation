@@ -1,0 +1,280 @@
+,Start Station Name,Start Time (minutes),NumOfStartTrips,ArrivalRate
+104,Elm St/ University Ave (East Side),0.0,1,0.03333333333333333
+141,Toronto Eaton Centre (Yonge St),0.0,1,0.03333333333333333
+65,College Park- Gerrard Entrance,0.0,4,0.13333333333333333
+23,Church St / Alexander St,0.0,1,0.03333333333333333
+66,College Park- Gerrard Entrance,1.0,3,0.1
+24,Church St / Alexander St,1.0,3,0.1
+228,Victoria St / Queen St E,1.0,1,0.03333333333333333
+257,Willcocks St / St. George St,2.0,1,0.03333333333333333
+67,College Park- Gerrard Entrance,2.0,2,0.06666666666666667
+171,Union Station,2.0,1,0.03333333333333333
+25,Church St / Alexander St,2.0,2,0.06666666666666667
+142,Toronto Eaton Centre (Yonge St),3.0,1,0.03333333333333333
+172,Union Station,3.0,1,0.03333333333333333
+210,University Ave / Armoury St,3.0,1,0.03333333333333333
+173,Union Station,4.0,1,0.03333333333333333
+229,Victoria St / Queen St E,4.0,1,0.03333333333333333
+211,University Ave / Armoury St,4.0,4,0.13333333333333333
+230,Victoria St / Queen St E,5.0,1,0.03333333333333333
+68,College Park- Gerrard Entrance,5.0,1,0.03333333333333333
+26,Church St / Alexander St,5.0,1,0.03333333333333333
+27,Church St / Alexander St,6.0,6,0.2
+28,Church St / Alexander St,7.0,5,0.16666666666666666
+174,Union Station,7.0,1,0.03333333333333333
+29,Church St / Alexander St,8.0,2,0.06666666666666667
+105,Elm St/ University Ave (East Side),8.0,1,0.03333333333333333
+106,Elm St/ University Ave (East Side),9.0,1,0.03333333333333333
+30,Church St / Alexander St,9.0,1,0.03333333333333333
+124,King St E / Jarvis St,10.0,1,0.03333333333333333
+143,Toronto Eaton Centre (Yonge St),11.0,1,0.03333333333333333
+175,Union Station,11.0,1,0.03333333333333333
+31,Church St / Alexander St,11.0,2,0.06666666666666667
+231,Victoria St / Queen St E,11.0,1,0.03333333333333333
+32,Church St / Alexander St,12.0,11,0.36666666666666664
+258,Willcocks St / St. George St,12.0,1,0.03333333333333333
+176,Union Station,12.0,20,0.6666666666666666
+69,College Park- Gerrard Entrance,12.0,1,0.03333333333333333
+33,Church St / Alexander St,13.0,9,0.3
+144,Toronto Eaton Centre (Yonge St),13.0,1,0.03333333333333333
+177,Union Station,13.0,2,0.06666666666666667
+70,College Park- Gerrard Entrance,13.0,10,0.3333333333333333
+145,Toronto Eaton Centre (Yonge St),14.0,2,0.06666666666666667
+71,College Park- Gerrard Entrance,14.0,17,0.5666666666666667
+34,Church St / Alexander St,14.0,7,0.23333333333333334
+178,Union Station,15.0,2,0.06666666666666667
+232,Victoria St / Queen St E,15.0,2,0.06666666666666667
+0,1 Market St - SMART,15.0,2,0.06666666666666667
+72,College Park- Gerrard Entrance,15.0,3,0.1
+35,Church St / Alexander St,15.0,2,0.06666666666666667
+73,College Park- Gerrard Entrance,16.0,2,0.06666666666666667
+146,Toronto Eaton Centre (Yonge St),16.0,2,0.06666666666666667
+36,Church St / Alexander St,16.0,1,0.03333333333333333
+212,University Ave / Armoury St,16.0,1,0.03333333333333333
+233,Victoria St / Queen St E,16.0,3,0.1
+1,1 Market St - SMART,16.0,4,0.13333333333333333
+179,Union Station,16.0,6,0.2
+2,1 Market St - SMART,17.0,4,0.13333333333333333
+234,Victoria St / Queen St E,17.0,2,0.06666666666666667
+180,Union Station,17.0,18,0.6
+37,Church St / Alexander St,17.0,3,0.1
+125,King St E / Jarvis St,18.0,1,0.03333333333333333
+74,College Park- Gerrard Entrance,18.0,2,0.06666666666666667
+38,Church St / Alexander St,18.0,3,0.1
+3,1 Market St - SMART,18.0,1,0.03333333333333333
+181,Union Station,18.0,5,0.16666666666666666
+39,Church St / Alexander St,19.0,4,0.13333333333333333
+126,King St E / Jarvis St,19.0,4,0.13333333333333333
+182,Union Station,19.0,1,0.03333333333333333
+75,College Park- Gerrard Entrance,19.0,2,0.06666666666666667
+4,1 Market St - SMART,19.0,5,0.16666666666666666
+40,Church St / Alexander St,20.0,4,0.13333333333333333
+76,College Park- Gerrard Entrance,20.0,2,0.06666666666666667
+259,Willcocks St / St. George St,20.0,1,0.03333333333333333
+235,Victoria St / Queen St E,20.0,4,0.13333333333333333
+183,Union Station,20.0,4,0.13333333333333333
+147,Toronto Eaton Centre (Yonge St),21.0,2,0.06666666666666667
+184,Union Station,21.0,1,0.03333333333333333
+213,University Ave / Armoury St,21.0,1,0.03333333333333333
+77,College Park- Gerrard Entrance,21.0,3,0.1
+260,Willcocks St / St. George St,21.0,1,0.03333333333333333
+236,Victoria St / Queen St E,21.0,1,0.03333333333333333
+41,Church St / Alexander St,21.0,3,0.1
+5,1 Market St - SMART,21.0,1,0.03333333333333333
+237,Victoria St / Queen St E,22.0,1,0.03333333333333333
+6,1 Market St - SMART,22.0,1,0.03333333333333333
+78,College Park- Gerrard Entrance,22.0,2,0.06666666666666667
+42,Church St / Alexander St,22.0,5,0.16666666666666666
+238,Victoria St / Queen St E,23.0,3,0.1
+185,Union Station,23.0,3,0.1
+43,Church St / Alexander St,23.0,1,0.03333333333333333
+79,College Park- Gerrard Entrance,23.0,1,0.03333333333333333
+148,Toronto Eaton Centre (Yonge St),24.0,2,0.06666666666666667
+186,Union Station,24.0,5,0.16666666666666666
+239,Victoria St / Queen St E,24.0,1,0.03333333333333333
+107,Elm St/ University Ave (East Side),24.0,2,0.06666666666666667
+127,King St E / Jarvis St,24.0,2,0.06666666666666667
+80,College Park- Gerrard Entrance,24.0,4,0.13333333333333333
+7,1 Market St - SMART,24.0,1,0.03333333333333333
+44,Church St / Alexander St,24.0,1,0.03333333333333333
+214,University Ave / Armoury St,25.0,2,0.06666666666666667
+240,Victoria St / Queen St E,25.0,8,0.26666666666666666
+149,Toronto Eaton Centre (Yonge St),25.0,7,0.23333333333333334
+128,King St E / Jarvis St,25.0,2,0.06666666666666667
+187,Union Station,25.0,4,0.13333333333333333
+108,Elm St/ University Ave (East Side),25.0,1,0.03333333333333333
+81,College Park- Gerrard Entrance,25.0,4,0.13333333333333333
+8,1 Market St - SMART,25.0,4,0.13333333333333333
+261,Willcocks St / St. George St,25.0,1,0.03333333333333333
+45,Church St / Alexander St,26.0,1,0.03333333333333333
+241,Victoria St / Queen St E,26.0,7,0.23333333333333334
+129,King St E / Jarvis St,26.0,2,0.06666666666666667
+82,College Park- Gerrard Entrance,26.0,3,0.1
+150,Toronto Eaton Centre (Yonge St),26.0,3,0.1
+262,Willcocks St / St. George St,26.0,1,0.03333333333333333
+188,Union Station,26.0,2,0.06666666666666667
+215,University Ave / Armoury St,26.0,1,0.03333333333333333
+109,Elm St/ University Ave (East Side),26.0,1,0.03333333333333333
+9,1 Market St - SMART,26.0,3,0.1
+10,1 Market St - SMART,27.0,3,0.1
+110,Elm St/ University Ave (East Side),27.0,1,0.03333333333333333
+189,Union Station,27.0,2,0.06666666666666667
+242,Victoria St / Queen St E,27.0,5,0.16666666666666666
+83,College Park- Gerrard Entrance,27.0,5,0.16666666666666666
+263,Willcocks St / St. George St,27.0,2,0.06666666666666667
+46,Church St / Alexander St,27.0,1,0.03333333333333333
+216,University Ave / Armoury St,27.0,1,0.03333333333333333
+111,Elm St/ University Ave (East Side),28.0,3,0.1
+190,Union Station,28.0,6,0.2
+264,Willcocks St / St. George St,28.0,3,0.1
+130,King St E / Jarvis St,28.0,2,0.06666666666666667
+84,College Park- Gerrard Entrance,28.0,3,0.1
+243,Victoria St / Queen St E,28.0,2,0.06666666666666667
+151,Toronto Eaton Centre (Yonge St),28.0,7,0.23333333333333334
+11,1 Market St - SMART,28.0,2,0.06666666666666667
+47,Church St / Alexander St,28.0,2,0.06666666666666667
+217,University Ave / Armoury St,28.0,2,0.06666666666666667
+48,Church St / Alexander St,29.0,7,0.23333333333333334
+85,College Park- Gerrard Entrance,29.0,5,0.16666666666666666
+152,Toronto Eaton Centre (Yonge St),29.0,2,0.06666666666666667
+191,Union Station,29.0,1,0.03333333333333333
+12,1 Market St - SMART,29.0,2,0.06666666666666667
+112,Elm St/ University Ave (East Side),29.0,1,0.03333333333333333
+218,University Ave / Armoury St,29.0,3,0.1
+244,Victoria St / Queen St E,29.0,2,0.06666666666666667
+265,Willcocks St / St. George St,29.0,5,0.16666666666666666
+131,King St E / Jarvis St,29.0,2,0.06666666666666667
+86,College Park- Gerrard Entrance,30.0,3,0.1
+113,Elm St/ University Ave (East Side),30.0,3,0.1
+266,Willcocks St / St. George St,30.0,7,0.23333333333333334
+153,Toronto Eaton Centre (Yonge St),30.0,3,0.1
+192,Union Station,30.0,3,0.1
+132,King St E / Jarvis St,30.0,5,0.16666666666666666
+245,Victoria St / Queen St E,30.0,5,0.16666666666666666
+13,1 Market St - SMART,30.0,2,0.06666666666666667
+133,King St E / Jarvis St,31.0,28,0.9333333333333333
+193,Union Station,31.0,6,0.2
+87,College Park- Gerrard Entrance,31.0,4,0.13333333333333333
+49,Church St / Alexander St,31.0,1,0.03333333333333333
+267,Willcocks St / St. George St,31.0,4,0.13333333333333333
+246,Victoria St / Queen St E,31.0,10,0.3333333333333333
+114,Elm St/ University Ave (East Side),31.0,6,0.2
+219,University Ave / Armoury St,31.0,3,0.1
+154,Toronto Eaton Centre (Yonge St),31.0,10,0.3333333333333333
+50,Church St / Alexander St,32.0,3,0.1
+268,Willcocks St / St. George St,32.0,1,0.03333333333333333
+220,University Ave / Armoury St,32.0,6,0.2
+194,Union Station,32.0,1,0.03333333333333333
+247,Victoria St / Queen St E,32.0,6,0.2
+134,King St E / Jarvis St,32.0,1,0.03333333333333333
+115,Elm St/ University Ave (East Side),32.0,10,0.3333333333333333
+155,Toronto Eaton Centre (Yonge St),32.0,2,0.06666666666666667
+88,College Park- Gerrard Entrance,32.0,3,0.1
+269,Willcocks St / St. George St,33.0,2,0.06666666666666667
+135,King St E / Jarvis St,33.0,5,0.16666666666666666
+14,1 Market St - SMART,33.0,1,0.03333333333333333
+221,University Ave / Armoury St,33.0,3,0.1
+116,Elm St/ University Ave (East Side),33.0,8,0.26666666666666666
+89,College Park- Gerrard Entrance,33.0,7,0.23333333333333334
+195,Union Station,33.0,6,0.2
+51,Church St / Alexander St,33.0,2,0.06666666666666667
+156,Toronto Eaton Centre (Yonge St),33.0,6,0.2
+248,Victoria St / Queen St E,33.0,6,0.2
+90,College Park- Gerrard Entrance,34.0,6,0.2
+196,Union Station,34.0,10,0.3333333333333333
+52,Church St / Alexander St,34.0,2,0.06666666666666667
+117,Elm St/ University Ave (East Side),34.0,2,0.06666666666666667
+157,Toronto Eaton Centre (Yonge St),34.0,4,0.13333333333333333
+222,University Ave / Armoury St,34.0,3,0.1
+15,1 Market St - SMART,34.0,1,0.03333333333333333
+249,Victoria St / Queen St E,34.0,18,0.6
+136,King St E / Jarvis St,34.0,4,0.13333333333333333
+197,Union Station,35.0,11,0.36666666666666664
+223,University Ave / Armoury St,35.0,2,0.06666666666666667
+118,Elm St/ University Ave (East Side),35.0,4,0.13333333333333333
+250,Victoria St / Queen St E,35.0,6,0.2
+158,Toronto Eaton Centre (Yonge St),35.0,8,0.26666666666666666
+91,College Park- Gerrard Entrance,35.0,5,0.16666666666666666
+53,Church St / Alexander St,35.0,4,0.13333333333333333
+270,Willcocks St / St. George St,35.0,2,0.06666666666666667
+92,College Park- Gerrard Entrance,36.0,4,0.13333333333333333
+159,Toronto Eaton Centre (Yonge St),36.0,2,0.06666666666666667
+198,Union Station,36.0,6,0.2
+137,King St E / Jarvis St,36.0,1,0.03333333333333333
+54,Church St / Alexander St,36.0,2,0.06666666666666667
+224,University Ave / Armoury St,36.0,2,0.06666666666666667
+16,1 Market St - SMART,36.0,2,0.06666666666666667
+271,Willcocks St / St. George St,36.0,2,0.06666666666666667
+119,Elm St/ University Ave (East Side),36.0,2,0.06666666666666667
+55,Church St / Alexander St,37.0,4,0.13333333333333333
+138,King St E / Jarvis St,37.0,1,0.03333333333333333
+160,Toronto Eaton Centre (Yonge St),37.0,2,0.06666666666666667
+251,Victoria St / Queen St E,37.0,5,0.16666666666666666
+93,College Park- Gerrard Entrance,37.0,3,0.1
+17,1 Market St - SMART,37.0,1,0.03333333333333333
+225,University Ave / Armoury St,37.0,1,0.03333333333333333
+199,Union Station,37.0,4,0.13333333333333333
+272,Willcocks St / St. George St,37.0,2,0.06666666666666667
+252,Victoria St / Queen St E,38.0,3,0.1
+273,Willcocks St / St. George St,38.0,1,0.03333333333333333
+139,King St E / Jarvis St,38.0,1,0.03333333333333333
+94,College Park- Gerrard Entrance,38.0,7,0.23333333333333334
+18,1 Market St - SMART,38.0,1,0.03333333333333333
+120,Elm St/ University Ave (East Side),38.0,1,0.03333333333333333
+200,Union Station,38.0,3,0.1
+161,Toronto Eaton Centre (Yonge St),38.0,3,0.1
+56,Church St / Alexander St,39.0,2,0.06666666666666667
+95,College Park- Gerrard Entrance,39.0,6,0.2
+253,Victoria St / Queen St E,39.0,2,0.06666666666666667
+19,1 Market St - SMART,39.0,1,0.03333333333333333
+201,Union Station,39.0,2,0.06666666666666667
+162,Toronto Eaton Centre (Yonge St),39.0,1,0.03333333333333333
+96,College Park- Gerrard Entrance,40.0,1,0.03333333333333333
+20,1 Market St - SMART,40.0,2,0.06666666666666667
+121,Elm St/ University Ave (East Side),40.0,2,0.06666666666666667
+163,Toronto Eaton Centre (Yonge St),40.0,1,0.03333333333333333
+57,Church St / Alexander St,40.0,2,0.06666666666666667
+140,King St E / Jarvis St,40.0,1,0.03333333333333333
+202,Union Station,40.0,4,0.13333333333333333
+226,University Ave / Armoury St,40.0,2,0.06666666666666667
+97,College Park- Gerrard Entrance,41.0,1,0.03333333333333333
+58,Church St / Alexander St,41.0,1,0.03333333333333333
+274,Willcocks St / St. George St,41.0,1,0.03333333333333333
+203,Union Station,41.0,4,0.13333333333333333
+164,Toronto Eaton Centre (Yonge St),41.0,4,0.13333333333333333
+21,1 Market St - SMART,42.0,9,0.3
+59,Church St / Alexander St,42.0,3,0.1
+254,Victoria St / Queen St E,42.0,2,0.06666666666666667
+204,Union Station,42.0,1,0.03333333333333333
+98,College Park- Gerrard Entrance,42.0,2,0.06666666666666667
+275,Willcocks St / St. George St,42.0,1,0.03333333333333333
+165,Toronto Eaton Centre (Yonge St),42.0,2,0.06666666666666667
+166,Toronto Eaton Centre (Yonge St),43.0,1,0.03333333333333333
+99,College Park- Gerrard Entrance,43.0,2,0.06666666666666667
+60,Church St / Alexander St,43.0,2,0.06666666666666667
+255,Victoria St / Queen St E,43.0,2,0.06666666666666667
+205,Union Station,43.0,2,0.06666666666666667
+100,College Park- Gerrard Entrance,44.0,3,0.1
+61,Church St / Alexander St,44.0,1,0.03333333333333333
+276,Willcocks St / St. George St,44.0,4,0.13333333333333333
+256,Victoria St / Queen St E,44.0,1,0.03333333333333333
+206,Union Station,44.0,1,0.03333333333333333
+167,Toronto Eaton Centre (Yonge St),44.0,2,0.06666666666666667
+62,Church St / Alexander St,45.0,1,0.03333333333333333
+101,College Park- Gerrard Entrance,45.0,1,0.03333333333333333
+168,Toronto Eaton Centre (Yonge St),45.0,1,0.03333333333333333
+227,University Ave / Armoury St,45.0,1,0.03333333333333333
+207,Union Station,45.0,1,0.03333333333333333
+277,Willcocks St / St. George St,45.0,2,0.06666666666666667
+122,Elm St/ University Ave (East Side),45.0,1,0.03333333333333333
+208,Union Station,46.0,7,0.23333333333333334
+102,College Park- Gerrard Entrance,46.0,16,0.5333333333333333
+123,Elm St/ University Ave (East Side),46.0,1,0.03333333333333333
+169,Toronto Eaton Centre (Yonge St),46.0,2,0.06666666666666667
+63,Church St / Alexander St,46.0,3,0.1
+278,Willcocks St / St. George St,46.0,1,0.03333333333333333
+22,1 Market St - SMART,47.0,2,0.06666666666666667
+64,Church St / Alexander St,47.0,3,0.1
+209,Union Station,47.0,1,0.03333333333333333
+103,College Park- Gerrard Entrance,47.0,2,0.06666666666666667
+170,Toronto Eaton Centre (Yonge St),47.0,4,0.13333333333333333
